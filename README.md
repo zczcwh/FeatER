@@ -4,7 +4,7 @@
 
 ## News :triangular_flag_on_post: : code is merged to another [repository](https://github.com/zczcwh/POTTER/tree/main/human_mesh_recovery).
 
-Training/testing instructions and visualization demo code are provided. Please check it out!
+*Training/testing instructions and visualization demo code are provided. Please check it out!*
 
 
 
