@@ -6,7 +6,16 @@
 
 **Training/testing instructions and visualization demo code are provided. Please check it out!**
 
+## Experiments 
+<p align="center">
+  <img src="./img/p1.png">
+</p>
 
+## Visualizations
+<p align="center">
+  <img src="./img/p2.png">  
+  <img src="./img/p3.png">
+</p>
 
 
 ## Citing
